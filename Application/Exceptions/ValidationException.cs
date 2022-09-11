@@ -12,11 +12,3 @@ namespace Application.Exceptions
         public IReadOnlyDictionary<string, string[]> ErrorsDictionary { get; }
     }
 }
-/*
-API
-App
-Per
-Domen
- 
- 
- */
